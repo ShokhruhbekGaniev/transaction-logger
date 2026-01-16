@@ -1,0 +1,15 @@
+# IDE
+.idea/
+
+# Progress tracking (personal file)
+PROGRESS.md
+
+# Binary
+bin/
+*.exe
+
+# Test coverage
+coverage.out
+
+# Data files (will be created at runtime)
+data/transactions.json
